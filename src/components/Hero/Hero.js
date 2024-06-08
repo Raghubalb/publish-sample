@@ -11,7 +11,7 @@ const Hero = () => {
             some text for check
             
         </p>
-        <button className='btn'>Explore More <img src={dark_arrow} alt=""/></button>
+        {/* <button className='btn'>Explore More <img src={dark_arrow} alt=""/></button> */}
       </div>
     </div>
   )
